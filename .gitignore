@@ -1,0 +1,8 @@
+/venv
+/session
+/logs
+/indexer
+/data
+/tmp
+.env
+/resources/rendered_tweet_template.html
